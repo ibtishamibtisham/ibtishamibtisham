@@ -8,7 +8,7 @@
 
 - 👯 I have created cloned website [Overstock](https://overstockclone.netlify.app/)
 
-- 🤝 I am currently working on [React](https://github.com/ibtishamibtisham)
+- 🤝 I am currently working on [React-js](https://github.com/ibtishamibtisham)
 
 - 💬 Ask me about **Data-structure,react,express,javascript,node,mongodb,html,css**
 
